@@ -31,5 +31,5 @@ A sleek, single-page banking app that brings modern UX patterns—like lazy load
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/bankist-app.git
+git clone https://github.com/harisrox/bankist-app.git
 ```
