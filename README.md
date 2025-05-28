@@ -6,7 +6,7 @@ A sleek, single-page banking app that brings modern UX patterns—like lazy load
 
 ## 🚀 Live Demo
 
-[Click here to try it out!](--)
+[Click here to try it out!](https://bankist-app-blue.vercel.app/)
 
 ## ✨ Features
 
